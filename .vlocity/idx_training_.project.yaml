@@ -1,0 +1,25 @@
+Name: IDX training
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - lwc/cfCpqAssetViewerSelectAllAssets
+    - lwc/cfCpqAssetViewerAdvancedSearch
+    - lwc/cfCpqAssetViewerChildLineItem
+    - lwc/cfCpqPromotionDetailViewForAssetViewer
+    - lwc/cfCpqSpinner
+    - lwc/cfCpqCartInlinePromoForAssetViewer
+    - lwc/cPQAssetViewerOrderFlowMultiLanguage
+    - lwc/cfCpqAssetViewerContainer
+    - lwc/cfCpqCartInlineChildPromoForAssetViewer
+    - lwc/cPQAssetViewerQuoteFlowMultiLanguage
+    - lwc/cfCpqAssetViewerLineItem
+    - lwc/cfCpqAdvancedSearchLineItem
+VlocityTypesToFetch:
+    - DataRaptor
+    - IntegrationProcedure
+    - OmniScript
+    - VlocityCard
+SalesforceTypesToFetch:
+    - CustomObject
+    - FlexiPage
+    - LightningComponentBundle
+    - Profile
